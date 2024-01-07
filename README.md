@@ -1,4 +1,4 @@
-### Chae Seung Won
+### Chae Seungwon
 
 <!--
 **yachae-sw/yachae-sw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
