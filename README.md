@@ -12,3 +12,5 @@
 ## 🚩 Activities
 - 2022 ~ 2023: Undergraduate Researcher (2022.01 ~ 2023.12)
 - 2023 ~ 2024: SKT FLY AI 4기 - AI (2023.12 ~ 2024.02)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yachae-sw&layout=compact)
